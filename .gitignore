@@ -36,3 +36,4 @@
 */android/app/profile
 */android/app/release
 .DS_Store
+**/secrets.json
