@@ -36,4 +36,9 @@
 */android/app/profile
 */android/app/release
 .DS_Store
+
+# Secrets
 **/secrets.json
+**/google-services.json
+**/GoogleService-Info.plist
+
